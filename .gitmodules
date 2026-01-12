@@ -1,0 +1,3 @@
+[submodule "3rdparty/Primus"]
+	path = 3rdparty/Primus
+	url = https://github.com/AMD-AGI/Primus.git
